@@ -2,8 +2,8 @@
 
 ## Variables
 
-Subject                 Value from 1-30, this is the pariticipant identification code
-Activity                Value of the actual physical activity: [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
+Subject - Value from 1-30, this is the pariticipant identification code.
+Activity - Value of the actual physical activity: [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING].
 
 *After the first 2 variables above the rest are named below.  After the list they will be described:*
                         
